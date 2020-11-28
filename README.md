@@ -53,7 +53,7 @@ Penjelasan :
 Ketika mengakses google.com, makan akan di redirect menuju monta.if.its.ac.id  
 Penjelasan :
 - Buat variable acl untuk redirect domain google.com
-- Redirect menggunakan perintah http_reply_access
+- Redirect menggunakan perintah deny_info
 ## Soal 11
 Mengubah error page default squid  
 ![gambar](Screenshot/gambar11.1.png)  
